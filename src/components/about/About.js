@@ -6,9 +6,9 @@ const About = () => {
   return (
     <div className="about-container">
       <div className="about-desc">
-        <h3></h3>
+        <h3>Bienvenid@ a mi portafolio</h3>
         <p>
-        Seré breve y consisa, amo programar, le dedico muchas horas, 
+        Seré breve y concisa...amo programar, le dedico muchas horas, 
         aprendo de todo el mundo, soy muy curiosa, busco nuevos desafíos, 
         no me intimido fácilmente y tengo mucha creencia
         en mi misma y en mi capacidad de autosuperación...
