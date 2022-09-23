@@ -12,8 +12,13 @@ const About = () => {
         aprendo de todo el mundo, soy muy curiosa, busco nuevos desafíos, 
         no me intimido fácilmente y tengo mucha creencia
         en mi misma y en mi capacidad de autosuperación...
-        Si crees que es algo trillado, te invito a conocerme!!!
-        </p>
+        Si crees que es algo trillado, te invito a conocerme!!!</p>
+        <p>
+        Tengo conocimientos, en REACT, JAVASCRIPT, NODE JS,
+        REDUX, actualmente estoy estudiando PHP, JAVA, TYPESCRIPT</p>
+        <p>
+        Mi nivel de ingles es B2, avalado por EFSET, puedes visualizar el 
+        certificado haciendo click<a href="https://www.efset.org/cert/curcbA"target="_blank" rel="noreferrer"> aquí</a></p>
       </div>
       <div className="about-img">
         <img
